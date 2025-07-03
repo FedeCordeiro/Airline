@@ -19,7 +19,7 @@
                 <li><a href="flightByAirport">Buscar</a></li>
                 <li>
                     <selec>
-                        <a href="login">Login</a>
+                        <a id="login" href="login">Login</a>
                         <a href="logout">Logout</a>
                     </selec>
                 </li>
